@@ -115,7 +115,7 @@ For email functionality, this project uses Gmail with NodeMailer. Follow these s
 1. Log in to your Gmail account.
 2. Go to [Google Account Security Settings](https://myaccount.google.com/security).
 3. Generate an **App Password** under "App Passwords."
-4. Use the App Password in the `.env` file under the `GMAIL_PASS` key.
+4. Use the App Password in the `.env` file under the `GMAIL_APP_PASSWORD` key.
 5. Set your Gmail address as `GMAIL_USER` in the `.env` file.
 
 ---
